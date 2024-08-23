@@ -9,14 +9,6 @@
     },
     "modules": [
         {
-            "type": "custom",
-            "format": "\u001b[36m    コンピューター"
-        },
-        {
-            "type": "custom",
-            "format": "┌──────────────────────────────────────────┐"
-        },
-        {
             "type": "os",
             "key": "   OS",
             "keyColor": "red"
@@ -46,18 +38,10 @@
             "key": "   Terminal",
             "keyColor": "yellow"
         },
-        {
-            "type": "custom",
-            "format": "└──────────────────────────────────────────┘"
-        },
         "break",
         {
             "type": "title",
             "key": "  "
-        },
-        {
-            "type": "custom",
-            "format": "┌──────────────────────────────────────────┐"
         },
         {
             "type": "cpu",
@@ -93,11 +77,8 @@
             "key": "  󱫐 Uptime ",
             "keyColor": "red"
         },
+        "break",
         {
-            "type": "custom",
-            "format": "└──────────────────────────────────────────┘"
-        },
-	{
             "type": "colors",
             "paddingLeft": 2,
             "symbol": "circle"

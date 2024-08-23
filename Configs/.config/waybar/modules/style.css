@@ -3,15 +3,25 @@
     border-radius: 0px;
     font-family: "JetBrainsMono Nerd Font";
     font-weight: bold;
-    font-size: ${s_fontpx}px;
+/*    font-size: ${s_fontpx}px;*/
+    font-size: 13px;
     min-height: 10px;
 }
 
 @import "theme.css";
 
 window#waybar {
-    background: @bar-bg;
+/*    background: @bar-bg;*/
+/*    background: rgba(252, 250, 255, 0.5);*/
+    background: rgba(181, 108, 115, 0.6);
+/*    border-radius: 400px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;*/
 }
+
+/*window#waybar > box {
+    box-shadow: 0px 4px 4px #2e3440;
+}*/
 
 tooltip {
     background: @main-bg;
@@ -104,7 +114,8 @@ ${modules_ls}
     color: @main-fg;
     background: @main-bg;
     opacity: 1;
-    margin: ${x1g_margin}px ${x2g_margin}px ${x3g_margin}px ${x4g_margin}px;
+/*    margin: ${x1g_margin}px ${x2g_margin}px ${x3g_margin}px ${x4g_margin}px;*/
+    margin: 6px 0px 6px 0px;
     padding-${x3}: ${g_paddin}px;
     padding-${x4}: ${g_paddin}px;
 }
