@@ -12,6 +12,7 @@
             "(.*)Spotify": "Spotify 󰓇",
             "(.*)Steam": "Steam 󰓓"
         },
-        "max-length": 1000
+        "max-length": 1000,
+        "on-triple-click": "echo key super+q | dotoolc"
     },
 
