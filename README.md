@@ -6,6 +6,13 @@
 [<img src="https://img.youtube.com/vi/N7HTsyyBR3Q/maxresdefault.jpg">](https://youtu.be/N7HTsyyBR3Q)
 [<img src="https://img.youtube.com/vi/lvzLesF9u_o/maxresdefault.jpg">](https://youtu.be/lvzLesF9u_o)
 
+## Latest version (v3)
+![setup_v3](https://github.com/user-attachments/assets/e2dea41e-fa46-41b7-a6e1-3fde068cb09a)
+
+## Version v2
+![240825_12h51m23s_screenshot](https://github.com/user-attachments/assets/8318b1d3-75f1-4423-b1e7-d11621b17c96)
+![240823_22h14m38s_screenshot](https://github.com/user-attachments/assets/cb6858c2-a0a0-402c-8974-08f931ea9011)
+
 Note : You need to manually set soft links for nwg-dock and nwg-drawer css in the config folder for light/dark themes. And some env variables, preferences are set as per personal needs so modify accordingly.
 
 ## Installation
