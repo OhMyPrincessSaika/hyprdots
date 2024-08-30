@@ -2,12 +2,13 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br>
 </div>
 
-## Short Video Previews (older versions)
+## Short video previews - latest version (v3)
+[<img src="https://img.youtube.com/vi/JZlDUaCWGBI/maxresdefault.jpg">](https://youtu.be/JZlDUaCWGBI)
+![setup_v3](https://github.com/user-attachments/assets/e2dea41e-fa46-41b7-a6e1-3fde068cb09a)
+
+## Version v1
 [<img src="https://img.youtube.com/vi/N7HTsyyBR3Q/maxresdefault.jpg">](https://youtu.be/N7HTsyyBR3Q)
 [<img src="https://img.youtube.com/vi/lvzLesF9u_o/maxresdefault.jpg">](https://youtu.be/lvzLesF9u_o)
-
-## Latest version (v3)
-![setup_v3](https://github.com/user-attachments/assets/e2dea41e-fa46-41b7-a6e1-3fde068cb09a)
 
 ## Version v2
 ![240825_12h51m23s_screenshot](https://github.com/user-attachments/assets/8318b1d3-75f1-4423-b1e7-d11621b17c96)
