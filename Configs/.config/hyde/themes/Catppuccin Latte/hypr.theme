@@ -1,12 +1,12 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Tela-dracula'
+exec = gsettings set org.gnome.desktop.interface icon-theme 'Tela-circle-red'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Catppuccin-Latte'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-light'
 
 general {
-    gaps_in = 5
-    gaps_out = 10
-    border_size = 4
+    gaps_in = 6
+    gaps_out = 12
+    border_size = 5
     # col.active_border = rgba(dc8a78ff) rgba(8839efff) 45deg
     # col.inactive_border = rgba(7287fdcc) rgba(179299cc) 45deg
     col.active_border = rgba(dd7878ff) rgba(8839efff) rgba(179299ff) rgba(1e66f5ff) rgba(e64553ff) 45deg
@@ -40,4 +40,16 @@ decoration {
     }
 }
 
-# layerrule = blur,waybar
+layerrule = blur,waybar
+layerrule = blur,nwg-dock
+layerrule = blur,gtk-layer-shell
+layerrule = blur,bar-0
+layerrule = ignorezero,bar-0
+layerrule = blur,bar-1
+layerrule = ignorezero,bar-1
+layerrule = blur,notifications-window
+layerrule = ignorezero,notifications-window
+layerrule = ignorezero,waybar
+layerrule = ignorezero,nwg-dock
+layerrule = ignorezero,gtk-layer-shell
+# layerrule = dimaround,gtk-layer-shell
