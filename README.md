@@ -2,7 +2,7 @@
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br>
 </div>
 
-## Short video previews - latest version (v3)
+## Short video previews - version v3
 [<img src="https://img.youtube.com/vi/JZlDUaCWGBI/maxresdefault.jpg">](https://youtu.be/JZlDUaCWGBI)
 ![setup_v3](https://github.com/user-attachments/assets/e2dea41e-fa46-41b7-a6e1-3fde068cb09a)
 ![setup_new2](https://github.com/user-attachments/assets/6ec89a21-435c-4e68-ae9f-8f6b8543b236)
